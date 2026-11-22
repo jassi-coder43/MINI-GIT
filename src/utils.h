@@ -1,7 +1,7 @@
 #ifndef UTILS_H
 #define UTILS_H
 #include <string>
-
+#here the path and data
 std::string readFile(const std::string &path);
 void writeFile(const std::string &path, const std::string &data);
 bool fileExists(const std::string &path);
