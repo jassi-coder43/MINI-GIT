@@ -39,3 +39,5 @@ g++ -std=c++11 -Wall -o minigit src/*.cpp -lz
 - [ ] branch, checkout
 - [ ] diff
 - [ ] merge
+
+Author: jassi-coder43
